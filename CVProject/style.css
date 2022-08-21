@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #48D1CC;
+    font-family: 'Abhaya Libre';font-size: 22px;
+}
+.container{
+    max-width: 1000px;
+    background-color: #FFFFE0;
+    margin: 0 auto;
+}
+header{
+
+}
+.profile-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px dotted #FFE4E1 ;
+    float: left;
+   
+}
+p a {
+    
+    font-size: large;
+    text-decoration: none;
+}
+.header-bio{
+    float: left;
+    padding: 10px;
+}
+h1, h2, h3, h4, h5{
+    color: #11999e;
+}
+.header-contart{
+    float: right;
+}
+.clear-div{
+    clear: both;
+}
+hr{
+    border: solid black 3px;
+    width: 99%;
+    margin: 2px auto;
+    border-bottom: none;
+}
+/*---------
+personal-section
+*/
+#personal-section{
+
+}
+.class-left{
+    float: left;
+    width: 30%;
+}
+.class-right{
+    width: 70%;
+    float: left;
+}
+.clear-common{
+    clear: both;
+
+}
+hr{
+    border: dotted 3px grey;
+    width: 99%;
+    margin: 1px auto;
+    border-bottom: none;
+}
+.rigt-div{
+    width: 70%;
+    float: right;
+    background-color: royalblue;
+    color: aliceblue;
+}
